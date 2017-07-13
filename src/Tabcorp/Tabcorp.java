@@ -9,10 +9,10 @@ import java.util.Scanner;
 public class Tabcorp {
 	public static void main(String[] args){
 
-//		String file = args[0]+"txt";
-//		String result = args[1]+".txt";
-		String file = "race.txt";
-		String result = "dividends.txt";
+		String file = args[0]+".txt";
+		String result = args[1]+".txt";
+//		String file = "race.txt";
+//		String result = "dividends.txt";
 		
 		processRace(file,result);
 	}
