@@ -4,7 +4,7 @@
 This program calculates the dividends for a simplified form of Tote betting for Tabcorp.
 
 ## Install tools
-As this is a java program, you will need to follow the instructions to install JRE 8 and JDK 8 [**here**] (https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
+As this is a java program, you will need to follow the instructions to install JRE 8 and JDK 8 [here] (https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
 
 ## Clone repository
 You will need to clone the source code of Tabcorp GitHub repository. To do this open console and execute following lines:
